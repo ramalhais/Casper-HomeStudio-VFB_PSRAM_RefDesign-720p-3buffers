@@ -1,0 +1,106 @@
+[
+ {
+  "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_clkdiv/gowin_clkdiv_35.v",
+  "InstLine" : 9,
+  "InstName" : "Gowin_CLKDIV_35",
+  "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_clkdiv/gowin_clkdiv_35.v",
+  "ModuleLine" : 9,
+  "ModuleName" : "Gowin_CLKDIV_35"
+ },
+ {
+  "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+  "InstLine" : 42,
+  "InstName" : "video_top",
+  "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+  "ModuleLine" : 42,
+  "ModuleName" : "video_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 82,
+    "InstName" : "gowin_rpll_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "Gowin_rPLL"
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 96,
+    "InstName" : "u_tmds_pll",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_rpll/TMDS_PLL.v",
+    "ModuleLine" : 9,
+    "ModuleName" : "TMDS_PLL"
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 241,
+    "InstName" : "testpattern_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/testpattern.v",
+    "ModuleLine" : 17,
+    "ModuleName" : "testpattern"
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 306,
+    "InstName" : "VFB_PSRAM_Top_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/vfb_psram/vfb_psram.v",
+    "ModuleLine" : 3757,
+    "ModuleName" : "VFB_PSRAM_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/vfb_psram/vfb_psram.v",
+      "InstLine" : 4704,
+      "InstName" : "vfb_top_inst",
+      "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/vfb_psram/vfb_psram.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~vfb_psram_wrapper.VFB_PSRAM_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 344,
+    "InstName" : "PSRAM_Memory_Interface_HS_Top_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/psram_memory_interface_hs/psram_memory_interface_hs.v",
+    "ModuleLine" : 5263,
+    "ModuleName" : "PSRAM_Memory_Interface_HS_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/psram_memory_interface_hs/psram_memory_interface_hs.v",
+      "InstLine" : 5306,
+      "InstName" : "u_psram_top",
+      "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/psram_memory_interface_hs/psram_memory_interface_hs.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~psram_top.PSRAM_Memory_Interface_HS_Top"
+     }
+    ]
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 376,
+    "InstName" : "syn_gen_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/syn_gen.v",
+    "ModuleLine" : 13,
+    "ModuleName" : "syn_gen"
+   },
+   {
+    "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+    "InstLine" : 450,
+    "InstName" : "DVI_TX_Top_inst",
+    "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/dvi_tx/dvi_tx.v",
+    "ModuleLine" : 1042,
+    "ModuleName" : "DVI_TX_Top",
+    "SubInsts" : [
+     {
+      "InstFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/dvi_tx/dvi_tx.v",
+      "InstLine" : 1073,
+      "InstName" : "rgb2dvi_inst",
+      "ModuleFile" : "E:/TangNano-9K-example-main/VFB_PSRAM_RefDesign 720p 3buffers/src/dvi_tx/dvi_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "~rgb2dvi.DVI_TX_Top"
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,48 @@
+{
+ "Files" : [
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/dvi_tx/dvi_tx.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_clkdiv/gowin_clkdiv_35.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_rpll/TMDS_PLL.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/gowin_rpll/gowin_rpll.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/psram_memory_interface_hs/psram_memory_interface_hs.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/syn_gen.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/testpattern.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/vfb_psram/vfb_psram.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/src/video_top.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "C:/Users/ramalhais/Downloads/VFB_PSRAM_RefDesign 720p 3buffers/VFB_PSRAM_RefDesign 720p 3buffers/impl/temp/rtl_parser.result",
+ "Top" : "video_top",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}

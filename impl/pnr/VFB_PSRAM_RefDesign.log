@@ -1,0 +1,29 @@
+Reading netlist file: "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\gwsynthesis\VFB_PSRAM_RefDesign.vg"
+Parsing netlist file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\gwsynthesis\VFB_PSRAM_RefDesign.vg" completed
+Processing netlist completed
+Reading constraint file: "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\src\VFB_PSRAM_RefDesign.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\VFB_PSRAM_RefDesign.power.html" completed
+Generate file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\VFB_PSRAM_RefDesign.pin.html" completed
+Generate file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\VFB_PSRAM_RefDesign.rpt.html" completed
+Generate file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\VFB_PSRAM_RefDesign.rpt.txt" completed
+Generate file "E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\VFB_PSRAM_RefDesign.tr.html" completed
+Tue Nov 15 15:29:58 2022
+

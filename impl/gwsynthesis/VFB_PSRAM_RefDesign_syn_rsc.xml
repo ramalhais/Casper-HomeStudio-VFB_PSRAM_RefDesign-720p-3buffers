@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="video_top" Register="51" Alu="9" Lut="85">
+    <SubModule name="gowin_rpll_inst"/>
+    <SubModule name="u_tmds_pll"/>
+    <SubModule name="testpattern_inst" Register="118" Lut="187"/>
+    <SubModule name="VFB_PSRAM_Top_inst" Register="417" Alu="42" Lut="680" Bsram="8" Ssram="6"/>
+    <SubModule name="PSRAM_Memory_Interface_HS_Top_inst" Register="516" Alu="42" Lut="864" Bsram="2"/>
+    <SubModule name="syn_gen_inst" Register="32" Lut="70"/>
+    <SubModule name="DVI_TX_Top_inst" Register="73" Alu="68" Lut="217"/>
+</Module>

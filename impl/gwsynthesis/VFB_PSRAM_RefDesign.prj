@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW1NR-9C" package="QFN88P" speed="6" partNumber="GW1NR-LV9QN88PC6/I5"/>
+    <FileList>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\dvi_tx\dvi_tx.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\gowin_clkdiv\gowin_clkdiv_35.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\gowin_rpll\TMDS_PLL.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\gowin_rpll\gowin_rpll.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\psram_memory_interface_hs\psram_memory_interface_hs.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\syn_gen.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\testpattern.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\vfb_psram\vfb_psram.v" type="verilog"/>
+        <File path="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\src\video_top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="dsp_balance" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="C:\Users\ramalhais\Downloads\VFB_PSRAM_RefDesign 720p 3buffers\VFB_PSRAM_RefDesign 720p 3buffers\impl\gwsynthesis\VFB_PSRAM_RefDesign.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="top_module" value="video_top"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

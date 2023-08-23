@@ -1,0 +1,10 @@
+-d E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\gwsynthesis\VFB_PSRAM_RefDesign.vg
+-p GW1NR-9C-QFN88P-6
+-pn GW1NR-LV9QN88PC6/I5
+-cst E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\src\VFB_PSRAM_RefDesign.cst
+-cfg E:\TangNano-9K-example-main\VFB_PSRAM_RefDesign 720p 3buffers\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
